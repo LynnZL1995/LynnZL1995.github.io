@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Allow built assets for GitHub Pages
+!assets/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
